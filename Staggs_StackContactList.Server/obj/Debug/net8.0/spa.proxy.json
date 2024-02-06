@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "F:\\School\\Cpp\\Staggs_StackContactList\\Staggs_StackContactList.Server\\..\\staggs_stackcontactlist.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

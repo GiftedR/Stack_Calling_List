@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qTHtlOTymODnT0CtVLnC2bE8zW1+dmXnshKheZqRZtXNVXarX7S5gDA4XBs8HjMetTV5Muo/6HqvvWag4CCPQ==",
+  "success": true,
+  "projectFilePath": "F:\\School\\Cpp\\Staggs_StackContactList\\Staggs_StackContactList.Server\\Staggs_StackContactList.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kidsg\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.1\\microsoft.aspnetcore.spaproxy.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@Staggs_StackContactList.Server_HostAddress = http://localhost:5208
+
+GET {{Staggs_StackContactList.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

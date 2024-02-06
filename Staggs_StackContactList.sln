@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staggs_StackContactList.Server", "Staggs_StackContactList.Server\Staggs_StackContactList.Server.csproj", "{2C2089B9-4BF0-466B-8F92-CDC1F9C8D117}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "staggs_stackcontactlist.client", "staggs_stackcontactlist.client\staggs_stackcontactlist.client.esproj", "{294B896E-CE56-4456-81BC-8642C30737CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2089B9-4BF0-466B-8F92-CDC1F9C8D117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2089B9-4BF0-466B-8F92-CDC1F9C8D117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2089B9-4BF0-466B-8F92-CDC1F9C8D117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2089B9-4BF0-466B-8F92-CDC1F9C8D117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294B896E-CE56-4456-81BC-8642C30737CB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B0412C-4502-46CC-B1CE-03FC64675CF7}
+	EndGlobalSection
+EndGlobal
